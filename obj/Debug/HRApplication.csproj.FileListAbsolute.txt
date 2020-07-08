@@ -1,0 +1,33 @@
+\\Mac\Home\Downloads\Programming II Assignment\HRApplication\HRApplication\obj\Debug\HRApplication.csprojAssemblyReference.cache
+\\Mac\Home\Downloads\Programming II Assignment\HRApplication\HRApplication\obj\Debug\HRApplication.HourlyEmployeeDetails.resources
+\\Mac\Home\Downloads\Programming II Assignment\HRApplication\HRApplication\obj\Debug\HRApplication.MainForm.resources
+\\Mac\Home\Downloads\Programming II Assignment\HRApplication\HRApplication\obj\Debug\HRApplication.Properties.Resources.resources
+\\Mac\Home\Downloads\Programming II Assignment\HRApplication\HRApplication\obj\Debug\HRApplication.SalariedEmployeeDetails.resources
+\\Mac\Home\Downloads\Programming II Assignment\HRApplication\HRApplication\obj\Debug\HRApplication.csproj.GenerateResource.cache
+\\Mac\Home\Downloads\Programming II Assignment\HRApplication\HRApplication\bin\Debug\HRApplication.exe.config
+\\Mac\Home\Downloads\Programming II Assignment\HRApplication\HRApplication\bin\Debug\HRApplication.exe
+\\Mac\Home\Downloads\Programming II Assignment\HRApplication\HRApplication\bin\Debug\HRApplication.pdb
+\\Mac\Home\Downloads\Programming II Assignment\HRApplication\HRApplication\obj\Debug\HRApplication.exe
+\\Mac\Home\Downloads\Programming II Assignment\HRApplication\HRApplication\obj\Debug\HRApplication.pdb
+\\Mac\Home\Desktop\HRApplication\HRApplication\bin\Debug\HRApplication.exe.config
+\\Mac\Home\Desktop\HRApplication\HRApplication\bin\Debug\HRApplication.exe
+\\Mac\Home\Desktop\HRApplication\HRApplication\bin\Debug\HRApplication.pdb
+\\Mac\Home\Desktop\HRApplication\HRApplication\obj\Debug\HRApplication.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\HRApplication\HRApplication\obj\Debug\HRApplication.HourlyEmployeeDetails.resources
+\\Mac\Home\Desktop\HRApplication\HRApplication\obj\Debug\HRApplication.MainForm.resources
+\\Mac\Home\Desktop\HRApplication\HRApplication\obj\Debug\HRApplication.Properties.Resources.resources
+\\Mac\Home\Desktop\HRApplication\HRApplication\obj\Debug\HRApplication.SalariedEmployeeDetails.resources
+\\Mac\Home\Desktop\HRApplication\HRApplication\obj\Debug\HRApplication.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\HRApplication\HRApplication\obj\Debug\HRApplication.exe
+\\Mac\Home\Desktop\HRApplication\HRApplication\obj\Debug\HRApplication.pdb
+\\Mac\Home\Desktop\Real Work\HRApplication\HRApplication\bin\Debug\HRApplication.exe.config
+\\Mac\Home\Desktop\Real Work\HRApplication\HRApplication\bin\Debug\HRApplication.exe
+\\Mac\Home\Desktop\Real Work\HRApplication\HRApplication\bin\Debug\HRApplication.pdb
+\\Mac\Home\Desktop\Real Work\HRApplication\HRApplication\obj\Debug\HRApplication.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Real Work\HRApplication\HRApplication\obj\Debug\HRApplication.HourlyEmployeeDetails.resources
+\\Mac\Home\Desktop\Real Work\HRApplication\HRApplication\obj\Debug\HRApplication.MainForm.resources
+\\Mac\Home\Desktop\Real Work\HRApplication\HRApplication\obj\Debug\HRApplication.Properties.Resources.resources
+\\Mac\Home\Desktop\Real Work\HRApplication\HRApplication\obj\Debug\HRApplication.SalariedEmployeeDetails.resources
+\\Mac\Home\Desktop\Real Work\HRApplication\HRApplication\obj\Debug\HRApplication.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\Real Work\HRApplication\HRApplication\obj\Debug\HRApplication.exe
+\\Mac\Home\Desktop\Real Work\HRApplication\HRApplication\obj\Debug\HRApplication.pdb
